@@ -29,10 +29,10 @@
 
 ### Сертификаты Нетологии
 - [Сертификат об успешном окончании обучения](https://github.com/Pavelll23/Pavelll23/assets/116386264/ff3b23e9-7d9a-48d1-8acf-1ca55d8e8242)
-- [Ручное тестирование веб-приложений](https://github.com/Pavelll23/Pavelll23/files/13045354/certificate.1.pdf)
-- [Git-система контроля версий](https://github.com/Pavelll23/Pavelll23/files/13045362/certificate.2.pdf)
-- [Java для тестировщиков](https://github.com/Pavelll23/Pavelll23/files/13045374/certificate.3.pdf)
-- [Автоматизированное тестирование](https://github.com/Pavelll23/Pavelll23/files/13045392/certificate.4.pdf)
+- [Ручное тестирование веб-приложений](https://github.com/Pavelll23/Pavelll23/assets/116386264/225f149b-0f82-4981-a35e-e3956ce02f73)
+- [Git-система контроля версий](https://github.com/Pavelll23/Pavelll23/assets/116386264/a0de19ea-f423-42a4-9f0f-b14a8e2b4304)
+- [Java для тестировщиков](https://github.com/Pavelll23/Pavelll23/assets/116386264/1f1c555e-766f-46f4-a08c-8c36867f27e8)
+- [Автоматизированное тестирование](https://github.com/Pavelll23/Pavelll23/assets/116386264/69e04f0e-4930-4f14-9919-4de461b0bd08)
 
 
 <!--
