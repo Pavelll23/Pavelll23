@@ -28,7 +28,7 @@
 - [Дипломная работа профессии "Тестировщик ПО"](https://github.com/Pavelll23/Diplom.git)
 
 ### Сертификаты Нетологии
-- [Сертификат об успешном окончании обучения](https://github.com/Pavelll23/Pavelll23/files/13045339/certificate.pdf)
+- [Сертификат об успешном окончании обучения](https://github.com/Pavelll23/Pavelll23/assets/116386264/ff3b23e9-7d9a-48d1-8acf-1ca55d8e8242)
 - [Ручное тестирование веб-приложений](https://github.com/Pavelll23/Pavelll23/files/13045354/certificate.1.pdf)
 - [Git-система контроля версий](https://github.com/Pavelll23/Pavelll23/files/13045362/certificate.2.pdf)
 - [Java для тестировщиков](https://github.com/Pavelll23/Pavelll23/files/13045374/certificate.3.pdf)
