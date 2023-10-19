@@ -18,6 +18,14 @@
 ### Мои работы по автоматизации тестирования
 - [Тестирование API.CI](https://github.com/Pavelll23/TestingAPI.git)
 - [Тестирование веб-интерфейсов,Selenium и Selenide](https://github.com/Pavelll23/OrderingCard.git)
+- [Selenide](https://github.com/Pavelll23/CardDelivery.git)
+- [Patterns](https://github.com/Pavelll23/CardDeliveryChangeDate.git)
+- [Behaviour Driven Development](https://github.com/Pavelll23/PageObject.git)
+- [Docker и Docker compose](https://github.com/Pavelll23/DockerPostgreSQL.git)
+
+### Мои проекты
+- [Командный проект по курсу "Java для тестировщиков"](https://github.com/Pavelll23/GamingActivity.git)
+- [Дипломная работа профессии "Тестировщик ПО"](https://github.com/Pavelll23/Diplom.git)
 
 
 <!--
