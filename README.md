@@ -27,6 +27,9 @@
 - [Командный проект по курсу "Java для тестировщиков"](https://github.com/Pavelll23/GamingActivity.git)
 - [Дипломная работа профессии "Тестировщик ПО"](https://github.com/Pavelll23/Diplom.git)
 
+### Сертификаты Нетологии
+- 
+
 
 <!--
 **Pavelll23/Pavelll23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
