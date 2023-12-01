@@ -27,7 +27,7 @@
 - [Командный проект по курсу "Java для тестировщиков"](https://github.com/Pavelll23/GamingActivity.git)
 - [Дипломная работа профессии "Тестировщик ПО"](https://github.com/Pavelll23/Diplom.git)
 
-### Мои тестовые работы от работодателя
+### Мои тестовые работы от работодателей
 - [Заказ билета он-лайн](https://github.com/Pavelll23/OrderTicket.git)
 
 ### Сертификаты Нетологии
